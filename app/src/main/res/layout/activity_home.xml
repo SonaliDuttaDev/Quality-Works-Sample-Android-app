@@ -13,6 +13,7 @@
         android:layout_weight="1"
         android:text="@string/heading"
         android:textAlignment="center"
+        android:contentDescription="Heading"
         android:textSize="36sp" />
 
     <android.support.v7.widget.RecyclerView
